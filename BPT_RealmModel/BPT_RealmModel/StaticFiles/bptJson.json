@@ -1,0 +1,32 @@
+{
+"header": {
+    "btm_right_lat": 37.0,
+    "top_left_lat": 40.0,
+    "time": "19:55:49",
+    "mDate": "19/10/2019",
+    "mtheme_id": "0",
+    "theme_version": "2.0",
+    "top_left_long": -108.0,
+    "btm_right_long": -105.0
+},
+"nodes": [{
+    "id": "3359862784",
+    "name": "Hulimavu",
+    "parent_id": "12334"
+},
+{
+    "id": "3359858688",
+    "name": "JP Nagar",
+    "parent_id": "12334"
+},
+{
+    "id": "3359854592",
+    "name": "Gottigere",
+    "parent_id": "12334"
+},{
+    "id": "12334",
+    "name": "Bengaluru",
+    "parent_id": "",
+    "children": ["3359862784", "3359858688", "3359854592"]
+}]
+}

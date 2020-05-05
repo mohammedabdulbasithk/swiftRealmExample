@@ -1,0 +1,23 @@
+{
+    "nodes": [
+            {
+                "areaName":"Washington",
+                "height":1, "id":"8fo6mLzQ23TWtJT2zz3X",
+                "isActive":false,
+                "lat":39.403835497512326,
+                "lng":-78.05057703214638,
+                "topics": ["5fdM9bRJXQtOxHAj4pQZ", "LhFdxeOm0uPlgHX6pYyZ", "Wv0XgJxTDO1Lc1ww4bKe"],
+                "width":1
+            },
+            {   "areaName":"New county",
+                "height":1,
+                "id":"bCvA6Tfn1EPOhxfw3pLj",
+                "isActive":false,
+                "lat":37.84178303424423,
+                "lng":-77.577957296875,
+                "topics":["Wv0XgJxTDO1Lc1ww4bKe"],
+                "width":1
+            }
+    ]
+}
+
